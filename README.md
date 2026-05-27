@@ -33,8 +33,3 @@ https://www.ebay.com/itm/397876635608
 ## Downloads
 
 Download the latest Windows tool from the **Releases** page
-
-Recommended release tag format:
-
-```text
-v0.1.0-beta
